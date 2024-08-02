@@ -1,6 +1,8 @@
-![Hello](./images/github_header_image.png)
+<p align="center"><a href="https://github.com/Neburalis"><img src="./images/github-header-image.png" /></a></p>
+
 
 <!--
+[![Hello](./images/github-header-image.png)](github.com/Neburalis)
 **Neburalis/Neburalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
