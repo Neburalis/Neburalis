@@ -13,14 +13,14 @@ usually other people here list technologies they are familiar with, but I am fam
 
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Neburalis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Neburalis#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Neburalis&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Neburalis#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Neburalis&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/Neburalis#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Neburalis&layout=compact&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/Neburalis#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Neburalis&layout=compact&exclude_repo=pumpkin&langs_count=8&theme=dark#gh-dark-mode-only)](https://github.com/Neburalis#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Neburalis&layout=compact&exclude_repo=pumpkin&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/Neburalis#gh-light-mode-only)
 
 [![WakaTime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=Neburalis\&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Neburalis#gh-dark-mode-only)
 [![WakaTime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=Neburalis\&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Neburalis#gh-light-mode-only)
 
 
-<!--
+<!--sdf
 [![Hello](./images/github-header-image.png)](github.com/Neburalis)
 **Neburalis/Neburalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
