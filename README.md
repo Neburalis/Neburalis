@@ -12,7 +12,7 @@ __About me__
 - Fun fact: I like to translate documentation into my native language because, firstly, it improves my English skills, and secondly, I can help my countrymen.
 
 Usually other people here list technologies they are familiar with, but I'm familiar with a lot of technologies but wouldn't say I'm very good at them, so you can check it out in my repositories (and assess my skills in that technology) or in the banner below
-
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=neburalis.neburalis)]
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neburalis&show_icons=true&bg_color=30,845ec2,00c9a7&title_color=fff&text_color=fff)](https://github.com/Neburalis)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neburalis&layout=compact&exclude_repo=pumpkin&hide=Jupyter%20Notebook&langs_count=8&bg_color=30,845ec2,00c9a7&title_color=fff&text_color=fff)](https://github.com/Neburalis)
 
